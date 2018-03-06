@@ -1,4 +1,4 @@
-#############complie with MinGW#############
+//complie with MinGW
 
 #include <iostream>
 #include <fstream>
