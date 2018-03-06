@@ -1,3 +1,5 @@
+#############complie with MinGW#############
+
 #include <iostream>
 #include <fstream>
 #include <vector>
